@@ -1,0 +1,21 @@
+h1{
+  font-size: 50px;
+  color: aliceblue;
+  background-color: black;
+}
+h2{
+  font-size: 40px;
+  color: aliceblue;
+  text-align: center;
+  background-color: blueviolet;
+  font-style: italic;
+}
+h3{
+  font-size: 30px;
+  text-decoration: underline;
+  text-align: right;
+  background-color:aqua ;
+}
+.blue{
+  color: aqua;
+}
